@@ -14,7 +14,7 @@ Následně nainstalujte závislosti pomocí příkazu:
 npm install
 ```
 
-A následně si stáhněte prohlížeče pro Playwright pomocí příkazu:
+A následně si stáhněte prohlížeče pro Playwright pomocí příkazu v terminálové aplikaci (ve Windows Příkazový řádek/Powershell):
 
 ```bash
 npx playwright install
