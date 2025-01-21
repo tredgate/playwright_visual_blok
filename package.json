@@ -1,0 +1,22 @@
+{
+  "name": "playwright_visual_blok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/playwright_visual_blok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/playwright_visual_blok/issues"
+  },
+  "homepage": "https://github.com/tredgate/playwright_visual_blok#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  }
+}
